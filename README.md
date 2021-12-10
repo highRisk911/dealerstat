@@ -13,3 +13,7 @@ _Optional:_
 * Email checking  - 8 hours;
 * Password recovery - 8 hours;
 * Unit tests - 8 hours.
+
+
+_BD_schema_
+![Screenshot](bd_schema.png)
